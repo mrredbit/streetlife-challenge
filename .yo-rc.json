@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "streetlife",
+    "style": "scss",
+    "postcss": false
+  }
+}

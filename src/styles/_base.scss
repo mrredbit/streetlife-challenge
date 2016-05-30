@@ -1,0 +1,99 @@
+/*
+ * Define breakpoints
+ */
+$breakpoint-sm-mobile: 0px;
+$breakpoint-md-tablet: 790px;
+$breakpoint-lg-desktop: 1040px;
+$breakpoint-xl-large-screen: 1200px;
+
+/* Color palette */
+$greyish-brown: #4c4c4c;
+$seafoam-blue: #7cbdcf;
+$warm-grey: #9e9e9e;
+$pale-grey: #fbfbf9;
+$background-grey: #f1f1ec;
+$pure-white: #ffffff;
+$faded-blue: #5daabf;
+$super-light-grey: #f4f4f4;
+$grey: #e7e7e7;
+
+/* Reusable Base Style */
+.bs-avatar-md {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+}
+
+.bs-avatar-sm {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+/* Reusable Base Text styles */
+.bs-txt-heading-md {
+    font-family: ProximaNova-Bold;
+    font-size: 16px;
+    line-height: 1.5;
+    color: $greyish-brown;
+}
+
+.bs-txt-heading-sm {
+    font-family: ProximaNova-Bold;
+    font-size: 14px;
+    line-height: 1.7;
+    color: $greyish-brown;
+}
+
+.bs-txt-heading-seafoam-blue-md {
+    font-family: ProximaNova-Bold;
+    font-size: 16px;
+    line-height: 1.5;
+    color: $seafoam-blue;
+}
+
+.bs-txt-content-md {
+    font-family: ProximaNova-Regular;
+    font-size: 16px;
+    line-height: 1.5;
+    color: $greyish-brown;
+}
+
+.bs-txt-content-sm {
+    font-family: ProximaNova-Regular;
+    font-size: 14px;
+    line-height: 1.45;
+    color: $greyish-brown;
+}
+
+.bs-txt-functional-text-grey-sm {
+    font-family: ProximaNova-Bold;
+    font-size: 13px;
+    line-height: 1.8;
+    color: $warm-grey;
+    cursor: pointer;
+}
+
+.bs-txt-functional-text-seafoam-blue-md {
+    font-family: ProximaNova-Regular;
+    font-size: 16px;
+    line-height: 1.5;
+    color: $seafoam-blue;
+    cursor: pointer;
+}
+
+.bs-txt-time-places {
+    font-family: ProximaNova-Regular;
+    font-size: 14px;
+    line-height: 1.7;
+    color: $warm-grey;
+}
+
+.bs-txt-tags {
+    font-family: ProximaNova-Regular;
+    font-size: 13px;
+    line-height: 2;
+    color: $pure-white;
+    cursor: pointer;
+}
+
