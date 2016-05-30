@@ -1,6 +1,6 @@
 The code in this repository is to solve the front end news feed challenge of streetlife.com  
 The description of news feed challenge can be found in this [Gist](https://gist.github.com/jorgebastida/650bf8775ccd65bb2c3c)  
-A demostration for the news feed is shown HERE <place holder>
+A demonstration for the news feed is shown in http://mrredbit.github.io/streetlife-challenge/
 
 ## Check List ##
 * Responsive Layout (including desktop, tablet and mobile)
