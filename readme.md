@@ -2,7 +2,7 @@ The code in this repository is to solve the front end news feed challenge of str
 The description of news feed challenge can be found in this [Gist](https://gist.github.com/jorgebastida/650bf8775ccd65bb2c3c)  
 
 ## Demo
-<img src="https://github.com/mrredbit/streetlife-challenge/blob/master/src/website_demo.gif" alt="Demo" height="430px">
+<img src="https://github.com/mrredbit/streetlife-challenge/blob/master/src/website_demo.gif" alt="Demo" width="400px">
 
 A demonstration for the news feed is shown in http://mrredbit.github.io/streetlife-challenge/
 
